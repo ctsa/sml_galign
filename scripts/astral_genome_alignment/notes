@@ -1,0 +1,7 @@
+simplist way to do it:
+clustal aligned orthologs used as psi-blast input to search against pdbaa
+  [ optional: one or two rounds of psi-blast search against the nr first? ]
+take anything better than some low e-val with a gap cutoff
+get burial dsspsa and dsspsecstruct linked to each aligned position
+
+align to astral 95% id domain sequences
